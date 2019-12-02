@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "412620331321",
+    "firebase_url": "https://authenticatorapp-aa915.firebaseio.com",
+    "project_id": "authenticatorapp-aa915",
+    "storage_bucket": "authenticatorapp-aa915.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412620331321:android:365fe91688a04d4d75b0e8",
+        "android_client_info": {
+          "package_name": "com.fatec.horizon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412620331321-bufof8hsh8pl0japrus919b0ha163vjb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fatec.horizon",
+            "certificate_hash": "8be68e05a3d2eda659b18549a506b68203e0b805"
+          }
+        },
+        {
+          "client_id": "412620331321-hdnb508fg3pc609ssu5gnmrq2n90h6r3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fatec.horizon",
+            "certificate_hash": "5c875ebdc21bddb7fd0c6b82f8d345b479bc3a05"
+          }
+        },
+        {
+          "client_id": "412620331321-scoofo0c2prdq9jbvtf0jr40girbo6js.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNh17wWmBxfE9FlIUs-duXWBl-UqfiIBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412620331321-scoofo0c2prdq9jbvtf0jr40girbo6js.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412620331321:android:7bceaaff9ee0baf475b0e8",
+        "android_client_info": {
+          "package_name": "net.smallacademy.authenticatorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412620331321-ouubq8hdc9s1t0m834hcli1mf3rdc5v2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.smallacademy.authenticatorapp",
+            "certificate_hash": "8be68e05a3d2eda659b18549a506b68203e0b805"
+          }
+        },
+        {
+          "client_id": "412620331321-scoofo0c2prdq9jbvtf0jr40girbo6js.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNh17wWmBxfE9FlIUs-duXWBl-UqfiIBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412620331321-scoofo0c2prdq9jbvtf0jr40girbo6js.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
